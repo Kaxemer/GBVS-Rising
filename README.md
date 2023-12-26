@@ -3,6 +3,6 @@ Basically my notes for GBVS.
 
 # General Stuff
 
-[[General.canvas|General Canvas Stuff]]
+[General Canvas](obsidian://open?vault=Fighting%20Games&file=GBVS%20Rising%2FGeneral.canvas)
 
-[[Characters]]
+[Characters](obsidian://open?vault=Fighting%20Games&file=GBVS%20Rising%2FCharacters%2FCharacters)
